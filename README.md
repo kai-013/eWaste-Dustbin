@@ -194,6 +194,6 @@ bin and saving time consumed in motion.
 -   [Yolo Drowsiness Detection](https://github.com/nicknochnack/YOLO-Drowsiness-Detection)
 -   [Coustom dataset training Yolov5](https://youtu.be/80Q3HIBy7Qg)
 -   [Arduino tutorial](https://randomnerdtutorials.com/arduino-load-cell-hx711)
-
+.
  
 </div>
