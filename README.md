@@ -195,5 +195,5 @@ bin and saving time consumed in motion.
 -   [Coustom dataset training Yolov5](https://youtu.be/80Q3HIBy7Qg)
 -   [Arduino tutorial](https://randomnerdtutorials.com/arduino-load-cell-hx711)
 
- 
+ .
 </div>
